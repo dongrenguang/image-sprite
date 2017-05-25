@@ -1,0 +1,27 @@
+{
+  "name": "image-sprite",
+  "version": "1.0.0",
+  "description": "Image sprite tool with",
+  "main": "index.js",
+  "scripts": {
+    "sprite": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongrenguang/image-sprite.git"
+  },
+  "keywords": [
+    "image-sprite"
+  ],
+  "author": "Dong, Renguang (dongrenguang@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dongrenguang/image-sprite/issues"
+  },
+  "homepage": "https://github.com/dongrenguang/image-sprite#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp.spritesmith": "^6.5.0"
+  }
+}
